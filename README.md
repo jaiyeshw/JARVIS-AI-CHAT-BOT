@@ -87,7 +87,6 @@ pip install SpeechRecognition pyttsx3 wikipedia psutil openai pyaudio
 |---|---|
 | "Open YouTube" | Opens youtube.com in your browser |
 | "Open Google" | Opens google.com in your browser |
-| "Open VSCode" | Launches Visual Studio Code |
 | "What time is it?" | Speaks the current time |
 | "What's today's date?" | Speaks today's date |
 | "Battery status" | Reports battery percentage |
