@@ -6,7 +6,7 @@ A voice-activated AI assistant built with Python, inspired by Iron Man's JARVIS.
 
 ## ✨ Features
 
-- 🎙️ *Voice Recognition* — Listens via microphone using Google Speech Recognition
+- 🎙️ *Voice Recognition* — 
 - 🔊 *Text-to-Speech* — Responds out loud using pyttsx3
 - 🌐 *Web Automation* — Opens YouTube, Google, and runs custom Google searches
 - 💻 *App Launching* — Opens VS Code directly from voice
